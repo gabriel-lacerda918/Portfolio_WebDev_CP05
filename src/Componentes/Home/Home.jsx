@@ -16,7 +16,7 @@ const Home = () => {
         </button>
       </div>
       <div>
-        <img className="rounded-full" src='src/assets\perfil.png' alt="perfil foto" />
+        <img className="rounded-full" src='./src/assets/perfil.png' alt="perfil foto" />
       </div>
     </div>
   );
