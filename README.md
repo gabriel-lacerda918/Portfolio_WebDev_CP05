@@ -34,6 +34,6 @@ Este repositório contém o código-fonte de um portfólio web, desenvolvido com
 
 ## Autor
 
-Este projeto foi desenvolvido por **Gabriel Lacerda** como parte do desenvolvimento de um portfólio profissional para exibir seus conhecimentos e habilidades em Web Development.
+Este projeto foi desenvolvido por **Gabriel Lacerda (RM:556714)** como parte do desenvolvimento de um portfólio profissional para exibir seus conhecimentos e habilidades em Web Development.
 
 ---
